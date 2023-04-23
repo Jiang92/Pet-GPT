@@ -10,9 +10,7 @@ Pet-GPT 是一个使用 PyQt 编写的桌面宠物程序，支持调用 OpenAI �
   <img src="https://user-images.githubusercontent.com/46673445/232278236-d8665b48-74d9-4103-8cd1-7e7411bf362b.gif" alt="basheng" width="200" style="display: inline-block;">
 </div>
 
-bilibili连接
-https://www.bilibili.com/video/BV1xM4y1y7e7/?vd_source=0256cdccbe38c132828c06c0c3d6dd4f
-
+[bilibili连接](https://www.bilibili.com/video/BV1xM4y1y7e7/?vd_source=0256cdccbe38c132828c06c0c3d6dd4f)
 ## 特点
 
 - 一个简单的桌面小宠物，支持自定义图像和昵称
@@ -167,10 +165,10 @@ Done
 ![image](https://user-images.githubusercontent.com/46673445/232263608-c2f4982f-292e-41bd-b646-96a1140f22ee.png)
 
 ## 参考
-1. https://github.com/f/awesome-chatgpt-prompts（获取prompts命令）
-2. https://github.com/tommyli3318/desktop-pet（想做桌面宠物版的）
-3. https://github.com/binary-husky/chatgpt_academic（曾经在这上面做插件奉献，从而得到灵感）
-4. https://gitee.com/fg_slash/yuanshen-desktoppet#https://gitee.com/link?target=https%3A%2F%2Fpan.baidu.com%2Fs%2F1AuUjMnYgNScTla7yQA19Og（参考了gif图）
+1. <https://github.com/f/awesome-chatgpt-prompts>
+2. [想做桌面宠物版的](https://github.com/tommyli3318/desktop-pet)
+3. [曾经在这上面做插件奉献，从而得到灵感](https://github.com/binary-husky/chatgpt_academic)
+4. [参考了gif图](https://gitee.com/fg_slash/yuanshen-desktoppet#https://gitee.com/link?target=https%3A%2F%2Fpan.baidu.com%2Fs%2F1AuUjMnYgNScTla7yQA19Og)
 
 ## Star History
 
